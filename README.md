@@ -1,4 +1,4 @@
-## CS4390 Final Project (Fall 2019)
+## Mininet Application
 Code written by Farhan Rahman
 
 ### Demo
